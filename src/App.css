@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  
+}
+.navbar {
+  min-height: 100px;
+  
+}
+.nav-link {
+color: #1a1a1a;
+}
+body {
+  background-color: #D9ADA9;
+}
