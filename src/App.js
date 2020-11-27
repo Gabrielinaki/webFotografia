@@ -9,7 +9,7 @@ import Home from "./components/home/Home";
 import Retratos from "./components/retratos/Retratos";
 import AboutMe from "./components/aboutme/Aboutme";
 import Contacto from "./components/contacto/Contacto";
-import FotoProducto from "./components/fotoProducto/FotoProducto";
+import Gallery from "./components/fotoProducto/FotoProducto";
 import Paisajes from "./components/paisajes/Paisajes";
 
 const App = () => {
@@ -21,7 +21,7 @@ const App = () => {
         <Switch>
           <Route exact path="/" component={Home} />
           <Route path="/retratos" component={Retratos} />
-          <Route path="/fotoProducto" component={FotoProducto} />
+          <Route path="/fotoProducto" component={Gallery} />
           <Route path="/paisajes" component={Paisajes} />
           <Route path="/aboutme" component={AboutMe} />
           <Route path="/contacto" component={Contacto} />
