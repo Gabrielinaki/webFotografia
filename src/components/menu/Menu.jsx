@@ -9,7 +9,7 @@ const Menu = () => {
           <div className="container">
     <a className="navbar-brand" href="/" ><img  width="220" height="120"  src={logo} alt="logo"/></a>
   
-    <div className="collapse navbar-collapse " id="navbarSupportedContent">
+    <div className="collapse navbar-collapse" id="navbarSuportedContent">
       <ul className="navbar-nav ml-auto">
         <li className="nav-item">
           <a className="nav-link" href="/" id="inicio">Inicio</a>
