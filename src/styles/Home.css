@@ -1,0 +1,22 @@
+h1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.divider{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    
+}
+
+.row{
+    display:block;
+    margin: 20px;
+}
+
+img {
+    display: flex;
+    height: 30%;
+    width: 20%;
+    margin: 10px;
+}
